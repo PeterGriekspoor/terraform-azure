@@ -18,5 +18,6 @@ admin_password                  = "xxxxxxxxxxxxx"
 sic_key                         = "xxxxxxxxxxxxx"
 
 # Have you ever deployed a Management or a Cluster in this Subscription?
+# Product is R80.40 BYOL
 mgmt-sku-enabled                = false
 cpcluster-sku-enabled           = false
