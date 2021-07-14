@@ -19,5 +19,5 @@ sic_key                         = "xxxxxxxxxxxxx"
 
 # Have you ever deployed a Management or a Cluster in this Subscription?
 # Product is R80.40 BYOL
-ckpmgmt-sku-enabled                = false
+ckpmgmt-sku-enabled             = false
 cpcluster-sku-enabled           = false
